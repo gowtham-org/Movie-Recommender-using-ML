@@ -1,6 +1,7 @@
 # Movie Recommender System
 
 This repository contains a Python project that demonstrates how to build a basic **Movie Recommender System** using **pandas**, **scikit-learn**, and **cosine similarity**.
+
 ## Project Overview
 
 The notebook implements a **Content-Based Recommender System** to suggest similar movies based on user preferences. It utilizes a movie dataset and employs cosine similarity on movie features (primarily **movie overviews**) to recommend relevant movies.
