@@ -52,6 +52,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook Movies-Recommender.ipynb
 ```
+
 ## Dataset
 The project uses the Movies Metadata dataset (included or publicly available). The dataset contains movie titles, overviews, genres, and other metadata to build content-based recommendations.
 
