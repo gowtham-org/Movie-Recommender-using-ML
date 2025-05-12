@@ -29,6 +29,7 @@ cd Movie-Recommender-using-ML
 ```
 
 ### 2. Upload the necessary .csv files in your notebook home directory:
+Use kaggle URL for downloading datasets: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data?select=movies_metadata.csv
 - movies_metadata.csv
 - credits.csv
 - keywords.csv
